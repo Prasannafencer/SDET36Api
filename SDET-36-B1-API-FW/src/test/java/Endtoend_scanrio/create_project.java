@@ -16,7 +16,6 @@ import projectlibrary.projectlibiray;
 public class create_project {
 
 	public class CreateProjectVerifyInDatabase extends Baseclass_test {
-		
 		@Test
 		public void createPVerifyInDB() throws SQLException
 		{
